@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Samcomet
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m rather good in front end development
 - 💞️ I’m looking to collaborate on efforts
-- 📫 Reach me on WhatsApp (08081787676)
+- 📫 Reach me on WhatsApp (07077592115)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
